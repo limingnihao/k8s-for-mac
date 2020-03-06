@@ -7,7 +7,7 @@
 * [minikube](https://minikube.sigs.k8s.io/)
 
 ### 具体安装
-* [minikube](https://github.com/limingnihao/k8s-for-mac/minikube-for-mac/minikube.md)
+* [minikube](https://github.com/limingnihao/k8s-for-mac/blob/master/minikube-for-mac/minikube.md)
 
 
 
